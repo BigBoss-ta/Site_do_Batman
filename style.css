@@ -21,3 +21,11 @@ h1 {
     padding: 100px
 
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    color: rgb(255, 232, 28);
+    justify-content: space-around;
+    padding: 50px;
+}
